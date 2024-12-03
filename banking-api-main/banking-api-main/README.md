@@ -1,6 +1,6 @@
 ## Banking API 
 
-Your assignment is to build an internal API for a fake financial institution using Java and
+ build an internal API for a fake financial institution using Java and
 Spring.
 
 ### Brief
